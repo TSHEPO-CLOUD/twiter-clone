@@ -1,0 +1,2 @@
+class Tweeeter < ApplicationRecord
+end
